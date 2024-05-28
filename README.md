@@ -4,8 +4,8 @@
 This project aims to analyze retail order data to gain insights into various aspects such as total orders, revenue, best-selling products, and sales trends. The project uses Python for data processing and SQL for querying the database.
 
 ## Project Structure
-Jupyter Notebook: RETAIL_ORDERS.ipynb
-SQL Script: RETAIL_ORDERS.sql
+ - Jupyter Notebook: RETAIL_ORDERS.ipynb
+ - SQL Script: RETAIL_ORDERS.sql
 
 
 ## Files
